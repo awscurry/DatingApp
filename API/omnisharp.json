@@ -1,0 +1,5 @@
+{
+    "MsBuild": {
+        "MSBuildSdksPath": "5.0.201"
+    }
+}
